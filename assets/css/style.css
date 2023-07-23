@@ -7,6 +7,9 @@
 :root {
   --bs-heading-color: var(--px-heading);
 }
+.carousel-control-next-icon {
+  background-color: black;
+}
 
 :root,
 [data-bs-theme=light] {
