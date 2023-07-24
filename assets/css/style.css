@@ -716,6 +716,7 @@ a {
   padding: 17px;
   border-radius: var(--px-rounded);
   background: var(--px-bg);
+  box-shadow:3px 3px 5px rgba(0, 0, 0, 0.15) !important
 }
 .skill-section .skill-row + .skill-row {
   margin-top: 20px;
@@ -769,6 +770,7 @@ a {
   border-radius: var(--px-rounded);
   background: var(--px-bg);
   position: relative;
+  box-shadow:3px 3px 5px rgba(0, 0, 0, 0.15) !important
 }
 .aducation-box li + li {
   margin-top: 20px;
@@ -814,6 +816,7 @@ a {
   top: 0;
   z-index: 1;
   overflow: hidden;
+  box-shadow:3px 3px 5px rgba(0, 0, 0, 0.15) !important
 }
 .feature-box-01:after {
   content: "";
@@ -883,6 +886,7 @@ a {
   padding: 40px;
   border: 1px solid var(--px-gray);
   border-radius: var(--px-rounded);
+  box-shadow:3px 3px 5px rgba(0, 0, 0, 0.15) !important
 }
 @media (max-width: 1200px) {
   .portfolio-row {
@@ -950,6 +954,7 @@ a {
   border: 1px solid var(--px-gray);
   padding: 20px;
   border-radius: var(--px-rounded);
+  box-shadow:3px 3px 5px rgba(0, 0, 0, 0.15) !important
 }
 .testimonials-box .t-lead {
   width: 100px;
@@ -1044,6 +1049,7 @@ a {
   padding: 20px;
   background: var(--px-bg);
   border-radius: var(--px-rounded);
+  box-shadow:3px 3px 5px rgba(0, 0, 0, 0.15) !important
 }
 .contact-info li + li {
   margin-top: 20px;
